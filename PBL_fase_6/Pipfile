@@ -9,6 +9,7 @@ seaborn = "*"
 openpyxl = "*"
 scikit-learn = "*"
 ipykernel = "*"
+opencv-python = "*"
 
 [dev-packages]
 
