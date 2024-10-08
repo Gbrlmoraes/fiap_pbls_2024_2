@@ -10,6 +10,8 @@ openpyxl = "*"
 scikit-learn = "*"
 ipykernel = "*"
 opencv-python = "*"
+tqdm = "*"
+black = {extras = ["jupyter"], version = "*"}
 
 [dev-packages]
 
