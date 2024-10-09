@@ -164,3 +164,6 @@ cython_debug/
 # Arquivos de imagens
 *.png
 *.jpeg
+
+# Arquivos e pasta de entregáveis
+*GRUPO_5_PBL_TSCO_2o_Ano_Fase6*
